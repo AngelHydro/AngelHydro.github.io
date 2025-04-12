@@ -5,7 +5,7 @@ body {
 
 header {
 	background-color: #F7DC6F;
-	border-radius: 15px;
+	border-radius: 200px;
 	display: flex;
 	flex: auto;
 	flex-direction: row;
@@ -61,7 +61,7 @@ header #nous_contacter:hover {
 
 footer {
 	background-color: #F7DC6F;
-	border-radius: 15px;
+	border-radius: 200px;
 	display: flex;
     	justify-content: center;
     	align-items: center;
