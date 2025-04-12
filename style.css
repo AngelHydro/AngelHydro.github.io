@@ -63,8 +63,8 @@ footer {
 	background-color: #F7DC6F;
 	border-radius: 15px;
 	display: flex;
-    justify-content: center;
-    align-items: center;
+    	justify-content: center;
+    	align-items: center;
 	text-align: center;
 }
 footer p {
@@ -98,7 +98,7 @@ footer p:hover {
 
 
 #projet {
-  color: #87CEEB;
+  	color: #87CEEB;
 	text-align: center;
 	font-size: 500%;
 }
