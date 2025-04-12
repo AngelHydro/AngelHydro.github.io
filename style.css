@@ -1,10 +1,10 @@
 body {
-	background-color: white;
+	background-color: #FFF5E1;
 	color: black;
 }
 
 header {
-	background-color: #ffecb3;
+	background-color: #FFD36E;
 	border-radius: 200px;
 	display: flex;
 	flex: auto;
@@ -23,7 +23,7 @@ header #club_couture {
 	margin-right: 5%;
 }
 header #club_couture:hover {
-	color: #c5e1c3;
+	color: #F95C8E;
 }
 header #projet {
 	font-size: x-large;
@@ -34,7 +34,7 @@ header #projet {
 	margin-right: 5%;
 }
 header #projet:hover {
-	color: #c5e1c3;
+	color: #F95C8E;
 }
 header #inscription {
 	font-size: x-large;
@@ -45,7 +45,7 @@ header #inscription {
 	margin-right: 5%;
 }
 header #inscription:hover {
-	color: #c5e1c3;
+	color: #F95C8E;
 }
 header #nous_contacter {
 	font-size: x-large;
@@ -56,11 +56,11 @@ header #nous_contacter {
 	margin-right: 5%;
 }
 header #nous_contacter:hover {
-	color: #c5e1c3;
+	color: #F95C8E;
 }
 
 footer {
-	background-color: #ffecb3;
+	background-color: #FFD36E;
 	border-radius: 200px;
 	display: flex;
     	justify-content: center;
@@ -74,11 +74,11 @@ footer p {
 	padding-right: 10px;
 }
 footer p:hover {
-	color: #c5e1c3;
+	color: #F95C8E;
 }
 
 .h1 {
-	color: #f48f8f;
+	color: #2D3A4A;
 	text-align: center;
 	font-size: 750%;
 	margin-top: 10%;
@@ -87,7 +87,7 @@ footer p:hover {
 }
 
 #le_club_couture {
-	color: #aedff7;
+	color: #A8D5BA;
 	text-align: center;
 	font-size: 500%;
 }
@@ -98,21 +98,21 @@ footer p:hover {
 
 
 #projet {
-  	color: #aedff7;
+  	color: #A8D5BA;
 	text-align: center;
 	font-size: 500%;
 }
 
 
 #inscription {
-	color: #aedff7;
+	color: #A8D5BA;
 	text-align: center;
 	font-size: 500%;
 }
 
 
 #nous_contacter {
-	color: #aedff7;
+	color: #A8D5BA;
 	text-align: center;
 	font-size: 500%;
 }
