@@ -83,8 +83,8 @@ footer p:hover {
 }
 
 .h1 {
-  	font-family: "Knewave", system-ui;
-  	font-style: normal;
+  	font-family: "Imperial Script", cursive;
+	font-style: normal;
 	color: #4B5C70;
 	text-align: center;
 	font-size: 750%;
@@ -112,6 +112,8 @@ footer p:hover {
 }
 
 #projet {
+	font-family: "Knewave", system-ui;
+  	font-style: normal;
   	color: #A8D5BA;
 	text-align: center;
 	font-size: 500%;
@@ -119,6 +121,8 @@ footer p:hover {
 
 
 #inscription {
+	font-family: "Knewave", system-ui;
+  	font-style: normal;
 	color: #A8D5BA;
 	text-align: center;
 	font-size: 500%;
@@ -126,6 +130,8 @@ footer p:hover {
 
 
 #nous_contacter {
+	font-family: "Knewave", system-ui;
+  	font-style: normal;
 	color: #A8D5BA;
 	text-align: center;
 	font-size: 500%;
