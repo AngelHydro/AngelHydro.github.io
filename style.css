@@ -64,6 +64,10 @@ header #nous_contacter:hover {
 	padding-right: 2.5%;
 }
 
+a:hover {
+	color:F95C8E;
+}
+
 footer {
 	background-color: #FFD36E;
 	border-radius: 200px;
