@@ -94,6 +94,8 @@ footer p:hover {
 }
 
 #le_club_couture {
+	font-family: "Knewave", system-ui;
+  	font-style: normal;
 	color: #A8D5BA;
 	text-align: center;
 	font-size: 500%;
