@@ -98,7 +98,22 @@ footer p:hover {
 	font-size: 500%;
 }
 
-.paragraphe {
+.paragraphe_index {
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+	font-size: 225%;
+}
+.paragraphe_projet {
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+	font-size: 225%;
+}
+.paragraphe_inscription {
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+	font-size: 225%;
+}
+.paragraphe_contact {
 	padding-left: 2.5%;
 	padding-right: 2.5%;
 	font-size: 225%;
@@ -127,12 +142,6 @@ footer p:hover {
 	color: #A8D5BA;
 	text-align: center;
 	font-size: 500%;
-}
-inscription.html .paragraphe {
-	display: flex;
-	flex-direction: row;
-	justify-content: center;
-	align-items: center;
 }
 
 
