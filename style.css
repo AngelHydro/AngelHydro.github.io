@@ -131,6 +131,12 @@ footer p:hover {
 	text-align: center;
 	font-size: 500%;
 }
+inscription.html .paragraphe {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
 
 
 #nous_contacter {
