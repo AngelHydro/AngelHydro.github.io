@@ -61,11 +61,6 @@ header #nous_contacter:hover {
 	color: #F95C8E;
 }
 
-.paragraphe {
-	padding-left: 2.5%;
-	padding-right: 2.5%;
-}
-
 footer {
 	background-color: #FFD36E;
 	border-radius: 200px;
@@ -104,6 +99,8 @@ footer p:hover {
 }
 
 .paragraphe {
+	padding-left: 2.5%;
+	padding-right: 2.5%;
 	font-size: 225%;
 }
 
