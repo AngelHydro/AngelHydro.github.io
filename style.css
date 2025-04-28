@@ -112,8 +112,7 @@ footer p:hover {
 	padding-left: 2.5%;
 	padding-right: 2.5%;
 	font-size: 225%;
-	display: flex;
-	flex-wrap: wrap;
+	text-align: center;
 }
 .paragraphe_contact {
 	padding-left: 2.5%;
