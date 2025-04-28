@@ -1,5 +1,5 @@
 body {
-	background-image: url("data/img/pattern-8940646_1280.png");
+	background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("salle du club.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
