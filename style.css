@@ -1,5 +1,9 @@
 body {
-	background-image: url("data/img/moon eclipse sun and star.jpg");
+	background-image: url("data/img/pattern-8940646_1280.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	filter: grayscale(0.3) brightness(0.8);
 	color: black;
 }
 
