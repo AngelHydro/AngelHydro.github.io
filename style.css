@@ -1,5 +1,5 @@
 body {
-	background-color: #FFF5E1;
+	background: data/img/moon eclipse sun and star.jpg;
 	color: black;
 }
 
@@ -96,6 +96,10 @@ footer p:hover {
 	color: #A8D5BA;
 	text-align: center;
 	font-size: 500%;
+}
+
+.description_index {
+	background-color: #FFF5E1;
 }
 
 .paragraphe_index {
