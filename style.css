@@ -82,10 +82,7 @@ footer p:hover {
 	color: #F95C8E;
 }
 
-.h1 {
-  	font-family: "Imperial Script", cursive;
-	font-style: normal;
-	color: #4B5C70;
+#h1 {
 	text-align: center;
 	font-size: 750%;
 	margin-top: 10%;
