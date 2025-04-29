@@ -83,11 +83,14 @@ footer p:hover {
 }
 
 #h1 {
-	text-align: center;
-	font-size: 750%;
-	margin-top: 10%;
-	margin-bottom: 25%;
-	background-size: cover;
+    text-align: center; /* Centre le contenu textuel */
+    font-size: 750%;
+    margin-top: 10%;
+    margin-bottom: 25%;
+    background-size: cover;
+    display: block; /* Assure que #h1 est un élément de type bloc */
+    margin-left: auto; /* Centre horizontalement */
+    margin-right: auto; /* Centre horizontalement */
 }
 
 #le_club_couture {
