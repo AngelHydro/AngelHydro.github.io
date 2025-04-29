@@ -83,12 +83,12 @@ footer p:hover {
 }
 
 #h1 {
-    text-align: center; /* Centre le contenu textuel */
-    font-size: 750%;
-    margin-top: 10%;
+    max-width: 100%; /* L'image ne dépassera pas la largeur de l'écran */
+    height: auto;    /* La hauteur s'ajustera automatiquement pour respecter les proportions */
+    text-align: center; /* Centre le contenu textuel, si nécessaire */
+    margin-top: 10%; 
     margin-bottom: 25%;
-    background-size: cover;
-    display: block; /* Assure que #h1 est un élément de type bloc */
+    display: block;  /* Assure que #h1 est un élément de type bloc */
     margin-left: auto; /* Centre horizontalement */
     margin-right: auto; /* Centre horizontalement */
 }
