@@ -103,6 +103,7 @@ footer p:hover {
 
 .description_index {
 	background-color: #FFF5E1;
+	border-radius: 200px;
 }
 
 .paragraphe_index {
@@ -142,7 +143,7 @@ footer p:hover {
 	text-align: center;
 	font-size: 500%;
 }
-description_projet {
+.description_projet {
 	background-color: #FFF5E1;
 	border-radius: 200px;
 }
@@ -155,7 +156,7 @@ description_projet {
 	text-align: center;
 	font-size: 500%;
 }
-description_inscription {
+.description_inscription {
 	background-color: #FFF5E1;
 	border-radius: 200px;
 }
@@ -168,7 +169,7 @@ description_inscription {
 	text-align: center;
 	font-size: 500%;
 }
-description_contact {
+.description_contact {
 	background-color: #FFF5E1;
 	border-radius: 200px;
 }
