@@ -142,6 +142,10 @@ footer p:hover {
 	text-align: center;
 	font-size: 500%;
 }
+description_projet {
+	background-color: #FFF5E1;
+	border-radius: 200px;
+}
 
 
 #inscription {
@@ -151,6 +155,10 @@ footer p:hover {
 	text-align: center;
 	font-size: 500%;
 }
+description_inscription {
+	background-color: #FFF5E1;
+	border-radius: 200px;
+}
 
 
 #nous_contacter {
@@ -159,4 +167,8 @@ footer p:hover {
 	color: #A8D5BA;
 	text-align: center;
 	font-size: 500%;
+}
+description_contact {
+	background-color: #FFF5E1;
+	border-radius: 200px;
 }
