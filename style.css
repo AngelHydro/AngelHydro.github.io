@@ -6,21 +6,21 @@
 	color: black;
 }
 #body_projet {
-	background-color: #FFF5E1;
+	background-color: #E0D8C4;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
 	color: black;
 }
 #body_inscription {
-	background-color: #FFF5E1;
+	background-color: #E0D8C4;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
 	color: black;
 }
 #body_contact {
-	background-color: #FFF5E1;;
+	background-color: #E0D8C4;;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
@@ -35,8 +35,8 @@ header {
 	flex-direction: row;
 	justify-content: center;
 	align-items: center;
-	padding-top: 5vh;
-	padding-bottom: 5vh;
+	padding-top: 2.5vh;
+	padding-bottom: 2.5vh;
 }
 header #club_couture {
 	font-family: "Knewave", system-ui;
@@ -121,6 +121,7 @@ footer p:hover {
 }
 
 .description_index {
+	background-color: #FFF5E1;
 	border-radius: 100px;
     	padding-bottom: 2.5px;
     	padding-top: 2.5px;
