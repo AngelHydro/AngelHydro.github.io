@@ -14,8 +14,8 @@ header {
 	flex-direction: row;
 	justify-content: center;
 	align-items: center;
-	padding-top: 2%;
-	padding-bottom: 2%;
+	padding-top: 5vh;
+	padding-bottom: 5vh;
 }
 header #club_couture {
 	font-family: "Knewave", system-ui;
@@ -105,7 +105,7 @@ footer p:hover {
     	padding-bottom: 2.5px;
     	padding-top: 2.5px;
     	margin-top: 10vh;
-    	margin-bottom: 10px;
+    	margin-bottom: 5vh;
 }
 
 .paragraphe_index {
@@ -132,10 +132,10 @@ footer p:hover {
 
 .projet {
 	color: black;
-	text-decoration: none;
 }
 .projet:hover {
 	color: #F95C8E;
+	text-decoration: none;
 }
 
 #projet {
@@ -150,9 +150,10 @@ footer p:hover {
 	border-radius: 100px;
     	padding-bottom: 2.5px;
     	padding-top: 2.5px;
-    	margin-top: 10px;
-    	margin-bottom: 10px;
+    	margin-top: 10vh;
+    	margin-bottom: 5vh;
 }
+
 
 #inscription {
 	font-family: "Knewave", system-ui;
@@ -166,8 +167,8 @@ footer p:hover {
 	border-radius: 100px;
     	padding-bottom: 2.5px;
     	padding-top: 2.5px;
-    	margin-top: 10px;
-    	margin-bottom: 10px;
+    	margin-top: 10vh;
+    	margin-bottom: 5vh;
 }
 
 
@@ -183,6 +184,6 @@ footer p:hover {
 	border-radius: 100px;
     	padding-bottom: 2.5px;
     	padding-top: 2.5px;
-    	margin-top: 10px;
-    	margin-bottom: 10px;
+    	margin-top: 10vh;
+    	margin-bottom: 5vh;
 }
