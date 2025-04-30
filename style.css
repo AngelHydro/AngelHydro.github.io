@@ -1,5 +1,26 @@
-body {
+#body_index {
 	background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("data/img/salle du club.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	color: black;
+}
+#body_projet {
+	background-color: #FFF5E1;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	color: black;
+}
+#body_inscription {
+	background-color: #FFF5E1;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	color: black;
+}
+#body_contact {
+	background-color: #FFF5E1;;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
@@ -100,7 +121,6 @@ footer p:hover {
 }
 
 .description_index {
-	background-color: #FFF5E1;
 	border-radius: 100px;
     	padding-bottom: 2.5px;
     	padding-top: 2.5px;
@@ -146,7 +166,6 @@ footer p:hover {
 	font-size: 500%;
 }
 .description_projet {
-	background-color: #FFF5E1;
 	border-radius: 100px;
     	padding-bottom: 2.5px;
     	padding-top: 2.5px;
@@ -163,7 +182,6 @@ footer p:hover {
 	font-size: 500%;
 }
 .description_inscription {
-	background-color: #FFF5E1;
 	border-radius: 100px;
     	padding-bottom: 2.5px;
     	padding-top: 2.5px;
@@ -180,7 +198,6 @@ footer p:hover {
 	font-size: 500%;
 }
 .description_contact {
-	background-color: #FFF5E1;
 	border-radius: 100px;
     	padding-bottom: 2.5px;
     	padding-top: 2.5px;
