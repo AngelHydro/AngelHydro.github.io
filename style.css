@@ -158,6 +158,10 @@ footer p:hover {
         grid-row-gap: 20px;
         align-items: center;
 }
+#salleclub {
+	width: 20px;
+}
+
 
 .projet {
 	color: black;
