@@ -150,6 +150,14 @@ footer p:hover {
 	padding-right: 2.5%;
 	font-size: 225%;
 }
+.texte_gauche {
+	display: grid;
+	grid-template-columns: 60% 30%;
+        grid-template-rows: auto;
+        grid-column-gap: 30px;
+        grid-row-gap: 20px;
+        align-items: center;
+
 
 .projet {
 	color: black;
