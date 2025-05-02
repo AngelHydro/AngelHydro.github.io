@@ -241,3 +241,8 @@ footer p {
     	margin-top: 10vh;
     	margin-bottom: 5vh;
 }
+.paragraphe_mentions {
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    font-size: 225%;
+}
