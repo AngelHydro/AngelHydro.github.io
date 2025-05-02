@@ -26,6 +26,13 @@
 	background-attachment: fixed;
 	color: black;
 }
+#body_mentions_legales {
+	background-color: #FFF5E1;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	color: black;
+}
 
 header {
 	background-color: #FFD36E;
@@ -213,6 +220,23 @@ footer p:hover {
 	font-size: 500%;
 }
 .description_contact {
+	background-color: #FFF5E1;
+	border-radius: 100px;
+    	padding-bottom: 2.5px;
+    	padding-top: 2.5px;
+    	margin-top: 10vh;
+    	margin-bottom: 5vh;
+}
+
+
+#mentions_legales {
+	font-family: "Knewave", system-ui;
+  	font-style: normal;
+	color: #A8D5BA;
+	text-align: center;
+	font-size: 500%;
+}
+.description_mentions_legales {
 	background-color: #FFF5E1;
 	border-radius: 100px;
     	padding-bottom: 2.5px;
