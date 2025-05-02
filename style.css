@@ -241,8 +241,12 @@ footer p {
     	margin-top: 10vh;
     	margin-bottom: 5vh;
 }
+.titre_mentions {
+	padding-left: 2.5%;
+    	padding-right: 2.5%;
+    	font-size: 300%;
 .paragraphe_mentions {
-    padding-left: 2.5%;
-    padding-right: 2.5%;
-    font-size: 225%;
+    	padding-left: 2.5%;
+    	padding-right: 2.5%;
+    	font-size: 225%;
 }
