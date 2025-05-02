@@ -163,10 +163,10 @@ footer p:hover {
 }
 
 
-.projet {
+.hyperlien {
 	color: black;
 }
-.projet:hover {
+.hyperlien:hover {
 	color: #F95C8E;
 	text-decoration: none;
 }
