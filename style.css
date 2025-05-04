@@ -198,6 +198,9 @@ footer p {
     	margin-top: 10vh;
     	margin-bottom: 5vh;
 }
+.description_projet .texte_gauche {
+	margin-left: 5%;
+}
 .description_projet .texte_droite {
 	margin-left: 5%;
 }
