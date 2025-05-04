@@ -162,7 +162,15 @@ footer p {
         grid-row-gap: 20px;
         align-items: center;
 }
-#salleclub {
+.texte_droite {
+	display: grid;
+	grid-template-columns: 30% 60%;
+        grid-template-rows: auto;
+        grid-column-gap: 30px;
+        grid-row-gap: 20px;
+        align-items: center;
+}
+.img {
 	width: 100%;
 }
 
