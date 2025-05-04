@@ -156,7 +156,7 @@ footer p {
 }
 .texte_centre {
 	display: grid;
-	grid-template-columns: 40% 20% 40%;
+	grid-template-columns: 40% 10% 40%;
         grid-template-rows: auto;
         grid-column-gap: 30px;
         grid-row-gap: 20px;
@@ -245,6 +245,9 @@ footer p {
     	padding-top: 2.5px;
     	margin-top: 10vh;
     	margin-bottom: 5vh;
+}
+.description_contact .texte_centre {
+	margin-left: 1%;
 }
 
 
