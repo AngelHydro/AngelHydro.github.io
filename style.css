@@ -136,24 +136,30 @@ footer p {
 .paragraphe_index {
 	padding-left: 2.5%;
 	padding-right: 2.5%;
-	font-size: 225%;
+	font-size: 175%;
 }
 .paragraphe_projet {
 	padding-left: 2.5%;
 	padding-right: 2.5%;
-	font-size: 225%;
+	font-size: 175%;
 }
 .paragraphe_inscription {
 	padding-left: 2.5%;
 	padding-right: 2.5%;
-	font-size: 225%;
+	font-size: 175%;
 	text-align: center;
 }
 .paragraphe_contact {
 	padding-left: 2.5%;
 	padding-right: 2.5%;
-	font-size: 225%;
+	font-size: 175%;
 }
+.paragraphe_mentions {
+    	padding-left: 2.5%;
+    	padding-right: 2.5%;
+    	font-size: 175%;
+}
+
 .texte_centre {
 	display: grid;
 	grid-template-columns: 40% 10% 40%;
@@ -268,11 +274,6 @@ footer p {
 }
 .titre_mentions {
 	padding-left: 2.5%;
-    	padding-right: 2.5%;
-    	font-size: 225%;
-}
-.paragraphe_mentions {
-    	padding-left: 2.5%;
     	padding-right: 2.5%;
     	font-size: 225%;
 }
