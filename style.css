@@ -225,6 +225,7 @@ footer p {
 
 .hyperlien {
 	color: black;
+	transition: color 0.3s ease;
 }
 .hyperlien:hover {
 	color: #F95C8E;
