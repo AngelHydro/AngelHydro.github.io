@@ -54,6 +54,7 @@ header #club_couture {
 	display: block;
 	margin-left: 5%;
 	margin-right: 5%;
+	transition: color 0.3s ease;
 }
 header #club_couture:hover {
 	color: #F95C8E;
@@ -65,6 +66,7 @@ header #projet {
 	display: block;
 	margin-left: 5%;
 	margin-right: 5%;
+	transition: color 0.3s ease;
 }
 header #projet:hover {
 	color: #F95C8E;
@@ -76,6 +78,7 @@ header #inscription {
 	display: block;
 	margin-left: 5%;
 	margin-right: 5%;
+	transition: color 0.3s ease;
 }
 header #inscription:hover {
 	color: #F95C8E;
@@ -87,6 +90,7 @@ header #nous_contacter {
 	display: block;
 	margin-left: 5%;
 	margin-right: 5%;
+	transition: color 0.3s ease;
 }
 header #nous_contacter:hover {
 	color: #F95C8E;
