@@ -119,13 +119,12 @@ footer p {
     margin-left: auto;
     margin-right: auto;
 }
-#flèche {
-	display: flex;
-	text-align: center;
-	width: 10%;
-}
 #flèche2 {
-	width: 10%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: auto;
+	width: 5%;
 }
 
 #le_club_couture {
