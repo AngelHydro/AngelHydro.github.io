@@ -127,6 +127,11 @@ footer p {
 	text-align: center;
 	font-size: 500%;
 }
+#flèche {
+	display: flex;
+	text-align: center;
+	width: 10%;
+}
 
 .description_index {
 	background-color: #FFF5E1;
