@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 #body_index {
 	background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("data/img/pattern-8940646_1280.png");
 	background-repeat: no-repeat;
