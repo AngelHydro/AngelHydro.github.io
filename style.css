@@ -127,6 +127,10 @@ footer p {
 	text-align: center;
 	font-size: 500%;
 }
+#accueil img {
+	width: 100%
+}
+
 
 .description_index {
 	background-color: #FFF5E1;
@@ -147,51 +151,6 @@ footer p {
 	padding-left: 2.5%;
 	padding-right: 2.5%;
 	font-size: 175%;
-}
-.paragraphe_projet {
-	font-family: "Roboto", sans-serif;
-	font-optical-sizing: auto;
-	font-weight: <weight>;
-	font-style: normal;
-	font-variation-settings:
-	"wdth" 100;
-	padding-left: 2.5%;
-	padding-right: 2.5%;
-	font-size: 175%;
-}
-.paragraphe_inscription {
-	font-family: "Roboto", sans-serif;
-	font-optical-sizing: auto;
-	font-weight: <weight>;
-	font-style: normal;
-	font-variation-settings:
-	"wdth" 100;
-	padding-left: 2.5%;
-	padding-right: 2.5%;
-	font-size: 175%;
-	text-align: center;
-}
-.paragraphe_contact {
-	font-family: "Roboto", sans-serif;
-	font-optical-sizing: auto;
-	font-weight: <weight>;
-	font-style: normal;
-	font-variation-settings:
-	"wdth" 100;
-	padding-left: 2.5%;
-	padding-right: 2.5%;
-	font-size: 175%;
-}
-.paragraphe_mentions {
-	font-family: "Roboto", sans-serif;
-	font-optical-sizing: auto;
-	font-weight: <weight>;
-	font-style: normal;
-	font-variation-settings:
-	"wdth" 100;
-    	padding-left: 2.5%;
-    	padding-right: 2.5%;
-    	font-size: 175%;
 }
 
 .texte_centre {
@@ -254,6 +213,17 @@ footer p {
 .description_projet .texte_droite {
 	margin-left: 5%;
 }
+.paragraphe_projet {
+	font-family: "Roboto", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+	font-variation-settings:
+	"wdth" 100;
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+	font-size: 175%;
+}
 
 
 #inscription {
@@ -270,6 +240,18 @@ footer p {
     	padding-top: 2.5px;
     	margin-top: 10vh;
     	margin-bottom: 5vh;
+}
+.paragraphe_inscription {
+	font-family: "Roboto", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+	font-variation-settings:
+	"wdth" 100;
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+	font-size: 175%;
+	text-align: center;
 }
 
 
@@ -291,6 +273,17 @@ footer p {
 .description_contact .texte_centre {
 	margin-left: 1%;
 }
+.paragraphe_contact {
+	font-family: "Roboto", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+	font-variation-settings:
+	"wdth" 100;
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+	font-size: 175%;
+}
 
 
 #mentions_legales {
@@ -307,6 +300,17 @@ footer p {
     	padding-top: 2.5px;
     	margin-top: 10vh;
     	margin-bottom: 5vh;
+}
+.paragraphe_mentions {
+	font-family: "Roboto", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+	font-variation-settings:
+	"wdth" 100;
+    	padding-left: 2.5%;
+    	padding-right: 2.5%;
+    	font-size: 175%;
 }
 .titre_mentions {
 	padding-left: 2.5%;
