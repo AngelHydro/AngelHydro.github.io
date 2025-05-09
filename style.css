@@ -290,6 +290,16 @@ footer p {
 	padding-right: 5%;
 	font-size: 175%;
 }
+#eclat {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#instagram {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
 .instagram {
 	width: 50%;
 }
