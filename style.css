@@ -292,10 +292,20 @@ footer p {
 }
 #eclat {
 	display: flex;
+	flex-direction: column;
 	justify-content: center;
 	align-items: center;
 }
 #ou {
+	font-family: "Roboto", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+	font-variation-settings:
+	"wdth" 100;
+	padding-left: 5%;
+	padding-right: 5%;
+	font-size: 175%;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -303,6 +313,7 @@ footer p {
 }
 #instagram {
 	display: flex;
+	flex-direction: column;
 	justify-content: center;
 	align-items: center;
 }
