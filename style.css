@@ -139,7 +139,7 @@ footer p {
 
 .description_index {
 	background-color: #FFF5E1;
-	border-radius: 100rem;
+	border-radius: 7.5rem;
     	padding-bottom: 2.5px;
     	padding-top: 2.5px;
     	margin-top: 10vh;
@@ -184,7 +184,7 @@ footer p {
 }
 .img {
 	width: 100%;
-	border-radius: 20rem;
+	border-radius: 5rem;
 }
 
 
@@ -207,7 +207,7 @@ footer p {
 }
 .description_projet {
 	background-color: #FFF5E1;
-	border-radius: 100rem;
+	border-radius: 7.5rem;
     	padding-bottom: 2.5px;
     	padding-top: 2.5px;
     	margin-top: 10vh;
@@ -241,7 +241,7 @@ footer p {
 }
 .description_inscription {
 	background-color: #FFF5E1;
-	border-radius: 100rem;
+	border-radius: 7.5rem;
     	padding-bottom: 2.5px;
     	padding-top: 2.5px;
     	margin-top: 10vh;
@@ -270,7 +270,7 @@ footer p {
 }
 .description_contact {
 	background-color: #FFF5E1;
-	border-radius: 100rem;
+	border-radius: 7.5rem;
     	padding-bottom: 2.5px;
     	padding-top: 2.5px;
     	margin-top: 10vh;
@@ -301,7 +301,7 @@ footer p {
 }
 .description_mentions_legales {
 	background-color: #FFF5E1;
-	border-radius: 100px;
+	border-radius: 7.5rem;
     	padding-bottom: 2.5px;
     	padding-top: 2.5px;
     	margin-top: 10vh;
