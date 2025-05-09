@@ -39,7 +39,7 @@ html {
 
 header {
 	background-color: #FFD36E;
-	border-radius: 200px;
+	border-radius: 200rem;
 	display: flex;
 	flex: auto;
 	flex-direction: row;
@@ -115,8 +115,7 @@ footer p {
 }
 
 #h1 {
-    max-width: 100%;
-    width: 40%;
+    width: 35%;
     text-align: center;
     display: block;
     margin-left: auto;
@@ -140,7 +139,7 @@ footer p {
 
 .description_index {
 	background-color: #FFF5E1;
-	border-radius: 100px;
+	border-radius: 100rem;
     	padding-bottom: 2.5px;
     	padding-top: 2.5px;
     	margin-top: 10vh;
@@ -154,8 +153,8 @@ footer p {
 	font-style: normal;
 	font-variation-settings:
 	"wdth" 100;
-	padding-left: 2.5%;
-	padding-right: 2.5%;
+	padding-left: 5%;
+	padding-right: 5%;
 	font-size: 175%;
 }
 
@@ -185,6 +184,7 @@ footer p {
 }
 .img {
 	width: 100%;
+	border-radius: 20rem;
 }
 
 
@@ -207,7 +207,7 @@ footer p {
 }
 .description_projet {
 	background-color: #FFF5E1;
-	border-radius: 100px;
+	border-radius: 100rem;
     	padding-bottom: 2.5px;
     	padding-top: 2.5px;
     	margin-top: 10vh;
@@ -226,8 +226,8 @@ footer p {
 	font-style: normal;
 	font-variation-settings:
 	"wdth" 100;
-	padding-left: 2.5%;
-	padding-right: 2.5%;
+	padding-left: 5%;
+	padding-right: 5%;
 	font-size: 175%;
 }
 
@@ -241,7 +241,7 @@ footer p {
 }
 .description_inscription {
 	background-color: #FFF5E1;
-	border-radius: 100px;
+	border-radius: 100rem;
     	padding-bottom: 2.5px;
     	padding-top: 2.5px;
     	margin-top: 10vh;
@@ -254,8 +254,8 @@ footer p {
 	font-style: normal;
 	font-variation-settings:
 	"wdth" 100;
-	padding-left: 2.5%;
-	padding-right: 2.5%;
+	padding-left: 5%;
+	padding-right: 5%;
 	font-size: 175%;
 	text-align: center;
 }
@@ -270,7 +270,7 @@ footer p {
 }
 .description_contact {
 	background-color: #FFF5E1;
-	border-radius: 100px;
+	border-radius: 100rem;
     	padding-bottom: 2.5px;
     	padding-top: 2.5px;
     	margin-top: 10vh;
@@ -286,8 +286,8 @@ footer p {
 	font-style: normal;
 	font-variation-settings:
 	"wdth" 100;
-	padding-left: 2.5%;
-	padding-right: 2.5%;
+	padding-left: 5%;
+	padding-right: 5%;
 	font-size: 175%;
 }
 
@@ -314,8 +314,8 @@ footer p {
 	font-style: normal;
 	font-variation-settings:
 	"wdth" 100;
-    	padding-left: 2.5%;
-    	padding-right: 2.5%;
+    	padding-left: 5%;
+    	padding-right: 5%;
     	font-size: 175%;
 }
 .titre_mentions {
